@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\romar\\Desktop\\TAREA\\AplicacionPrueba.csproj": {}
+    "C:\\Users\\romar\\Desktop\\Proyecto\\ProyectoProtesis\\AplicacionPrueba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\romar\\Desktop\\TAREA\\AplicacionPrueba.csproj": {
+    "C:\\Users\\romar\\Desktop\\Proyecto\\ProyectoProtesis\\AplicacionPrueba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\romar\\Desktop\\TAREA\\AplicacionPrueba.csproj",
+        "projectUniqueName": "C:\\Users\\romar\\Desktop\\Proyecto\\ProyectoProtesis\\AplicacionPrueba.csproj",
         "projectName": "AplicacionPrueba",
-        "projectPath": "C:\\Users\\romar\\Desktop\\TAREA\\AplicacionPrueba.csproj",
+        "projectPath": "C:\\Users\\romar\\Desktop\\Proyecto\\ProyectoProtesis\\AplicacionPrueba.csproj",
         "packagesPath": "C:\\Users\\romar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\romar\\Desktop\\TAREA\\obj\\",
+        "outputPath": "C:\\Users\\romar\\Desktop\\Proyecto\\ProyectoProtesis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\romar\\AppData\\Roaming\\NuGet\\NuGet.Config",
