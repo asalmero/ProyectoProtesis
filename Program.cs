@@ -33,7 +33,6 @@ namespace AplicacionPrueba
                       
             }
 
-            for (j = 1asdkfsdasdf) ;
              Console.ReadLine();
 
 
