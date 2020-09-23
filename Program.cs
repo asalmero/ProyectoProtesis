@@ -16,6 +16,7 @@ namespace AplicacionPrueba
                 for (i = 1; i <= count; i++)
                     Console.Write(" ");
                 count--;
+                //Edita la linea de abajo por favor.
                 for (i = 1; i <= 2 * j - 1; i++)
                     Console.Write("*");
                 Console.WriteLine();
